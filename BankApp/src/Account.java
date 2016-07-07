@@ -6,7 +6,7 @@ public class Account {
 	public void deposite(){
 		System.out.println("deposite method");
 		
-		for(int i=0;i<arr.length;i++){
+		for(int i:arr){
 			System.out.println("Data");
 		}
 	}

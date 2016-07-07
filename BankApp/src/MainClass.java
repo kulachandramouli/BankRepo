@@ -7,8 +7,8 @@ public class MainClass {
 		account.deposite();
 	}
 	public static void greetings(){
-		System.out.println("Your Bank operations are here");
-		System.out.println("Wel come to all Customers!!!!");
+		System.out.println(" YOUR BANK OPERATIONS ARE HERE");
+		System.out.println("WELCOME TO CUSTOMERS!!!!");
 		
 		System.out.println("Test 1");
 		System.out.println("Test 2");
