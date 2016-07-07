@@ -9,5 +9,11 @@ public class Account {
 		for(int i:arr){
 			System.out.println("Data");
 		}
+		
+		
+	}
+	
+	public void saving(){
+		System.out.println("saving method added");
 	}
 }
