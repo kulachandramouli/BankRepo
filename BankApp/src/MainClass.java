@@ -15,5 +15,10 @@ public class MainClass {
 		System.out.println("Test 3");
 	}
 	
+	public void hello(){
+		
+		System.out.println("hai hello");
+	}
+	
 	
 }
